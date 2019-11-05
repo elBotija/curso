@@ -1,0 +1,57 @@
+article{
+  width: 70vw;
+  margin: 0 auto;
+}
+h1{
+  font-size: 60px;
+  color: #F28A2E;
+  margin:0;
+}
+.volanta{
+  color:white;
+  margin-bottom: 20px;
+  font-weight: 600;
+  background: #7BA651;
+  padding:10px;
+  display: inline-block;
+}
+.bajada{
+  font-size: 20px;
+}
+.cuerpo{
+  font-size: 30px;
+}
+footer{
+  background: #ddd;
+  text-align: center;
+  height: 200px;
+  line-height: 200px;
+}
+header{
+  height: 200px;
+  display: block;
+  margin:0;
+  margin-bottom: 20px;
+  padding-left: 10vw;
+  padding-right: 10vw;
+  display: flex;
+  align-items: center;
+
+}
+body{
+  margin:0;
+}
+
+
+/* Color Theme Swatches in Hex */
+.color-1 { color: #F0F2F2; }
+.color-2 { color: #7BA651; }
+.color-3 { color: #F28A2E; }
+.color-4 { color: #F27127; }
+.color-5 { color: #8C2920; }
+
+.bg-1 { background: #F0F2F2; }
+.bg-2 { background: #7BA651; }
+.bg-3 { background: #F28A2E; }
+.bg-4 { background: #F27127; }
+.bg-5 { background: #8C2920; }
